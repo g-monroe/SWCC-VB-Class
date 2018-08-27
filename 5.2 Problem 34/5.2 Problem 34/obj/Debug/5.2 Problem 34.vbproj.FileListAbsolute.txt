@@ -1,0 +1,11 @@
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\bin\Debug\5.2 Problem 34.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\bin\Debug\5.2 Problem 34.exe
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\bin\Debug\5.2 Problem 34.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\bin\Debug\5.2 Problem 34.xml
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\obj\Debug\5.2 Problem 34.vbprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\obj\Debug\_5._2_Problem_34.Form1.resources
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\obj\Debug\_5._2_Problem_34.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\obj\Debug\5.2 Problem 34.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\obj\Debug\5.2 Problem 34.exe
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\obj\Debug\5.2 Problem 34.xml
+c:\users\kevin\documents\visual studio 2015\Projects\5.2 Problem 34\5.2 Problem 34\obj\Debug\5.2 Problem 34.pdb
